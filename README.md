@@ -2,6 +2,8 @@
 
 ### Individual research project in Comp. Science and Economics (Spring 2015)
 
+![EconomicsSimulator](http://i.imgur.com/oMvDFBv.png)
+
 ##### Description:
 The purpose of the “Keynesian Macroeconomic Simulator of Fiscal Policy” is to facilitate teaching basic macroeconomic principles to undergraduate students by providing them with a hands-on opportunity to experiment with the various macroeconomic variables they study in class and to observe their effects on a country’s economy. The computer simulator is based on the aggregate demand – aggregate supply (AD-AS) macroeconomic model, which is covered in the Principles of Macroeconomics course at the American University in Bulgaria. The reason for choosing the AD-AS model for the simulator is that, apart from it being the first macroeconomic model students are introduced to, having a solid understanding of this fundamental model is crucial for comprehending more complex models, such as the IS-LM model from Intermediate Macroeconomics and the Real-Business-Cycle/New-Keynesian models from advanced courses.
 
